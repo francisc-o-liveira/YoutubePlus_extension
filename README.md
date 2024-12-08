@@ -71,9 +71,9 @@ Welcome to the **Youtube Plus Experience** repository! This extension ensures un
 
 ---
 
-## Star Activity
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=1230684-isep/AdFree_Youtube&type=Date)](https://star-history.com/#1230684-isep/AdFree_Youtube&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=francisc-o-liveira/YoutubePlus_extension&type=Date)](https://star-history.com/#francisc-o-liveira/YoutubePlus_extension&Date)
 
 ---
 
