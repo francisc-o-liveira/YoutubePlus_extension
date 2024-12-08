@@ -1,10 +1,10 @@
-# Ad-Free YouTube Experience
+# Youtube Plus Experience
 
-Welcome to the **Ad-Free YouTube Experience** repository! This extension ensures uninterrupted YouTube sessions by blocking intrusive ads and offering a smoother video playback experience.
+Welcome to the **Youtube Plus Experience** repository! This extension ensures uninterrupted YouTube sessions by blocking intrusive ads and offering a smoother video playback experience.
 
 ## Table of Contents
 
-- [Ad-Free YouTube Experience](#ad-free-youtube-experience)
+- [Youtube Plus Experience](#ad-free-youtube-experience)
   - [How to Install](#how-to-install)
     - [For Chrome Users](#for-chrome-users)
     - [For Edge Users](#for-edge-users)
@@ -87,4 +87,4 @@ Contributions are welcome! Fork this repository, implement your feature or bug f
 If this extension has improved your YouTube experience, please show your support by starring the repository and sharing it with others.
 
 
-Enjoy an ad-free YouTube! 😊
+Enjoy an Youtube Plus! 😊
